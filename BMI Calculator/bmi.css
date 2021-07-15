@@ -1,0 +1,45 @@
+#container {
+
+    width: 375px;
+    height: 525px;
+    margin-left: 350px;
+    margin-top: 65px;
+    background-color:rgb(192, 192, 47);
+    padding-left: 30px;
+}
+#cm {
+
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+}
+#kg {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+}
+#weightguide {
+    margin-left: 25px;
+    margin-top: 50px;
+}
+#result {
+    font-size: 35px;
+    margin-left: 90px;
+    color: blue;
+}
+#submit {
+    width: 110px;
+    height: 35px;
+    margin-left: 100px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgb(57, 57, 214);
+    color: #fff;
+    font-size: 25px;
+}
+
+h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+}
